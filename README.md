@@ -17,4 +17,4 @@ Para baixar a imagem e subir um container, basta executar:
 docker run --rm --name go fabiojanio/codeeducation
 ```
 
-> O link do Docker Hub é: https://hub.docker.com/repository/docker/fabiojanio/codeeducation
+> O link do Docker Hub é: https://hub.docker.com/r/fabiojanio/codeeducation
